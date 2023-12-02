@@ -1,3 +1,3 @@
 # Dekker
 
-Esta práctica trata de implementar distintas soluciones para el problema de exclusión mutua, llegando al final a la implementación del algoritmo de Dekker (La correcta)
+This practice involves implementing various solutions to the mutual exclusion problem, culminating in the implementation of Dekker's algorithm (the correct version).
